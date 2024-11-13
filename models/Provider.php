@@ -2,7 +2,7 @@
 
 class Provider{
     private $host='localhost';
-    private $dbName="scolarite";
+    private $dbName="zoulha";
     private $user="root";
     private $password="";
 
